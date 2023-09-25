@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanazam&label=Profile%20views&color=0e75b6&style=flat"/></p>
 
 <h3>About Me:</h3>
-<p style="font-weight:500">I am React Js developer </p>
+<p style="font-weight:500">I am MERN STACK web developer </p>
 <p style="font-weight:500">Passionate about
     coding and always Excited to learn new Skills and
     Technology.</p>
